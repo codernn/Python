@@ -39,3 +39,4 @@ class Node:
             root.data = temp.data
             root.right = delete(root.right,temp.data)
         return root
+        
